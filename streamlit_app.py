@@ -114,7 +114,7 @@ def main():
     
     Source code on GitHub: https://github.com/AndriiGoz/traffic_signs_classification
     
-    Author: Andrii Gozhulovskyi
+    Author: MISS DALLAL
     """)
 
 
