@@ -109,10 +109,7 @@ def main():
     The app uses an implementation of LeNet-5 Convolutional Neural Network. 
     The model was trained and tested on about 40.000 real photos of 43 types of german traffic signs.
     
-    Data was taken from The German Traffic Sign Recognition Benchmark (GTSRB):
-    https://benchmark.ini.rub.de/gtsrb_dataset.html
-    
-    Source code on GitHub: https://github.com/AndriiGoz/traffic_signs_classification
+  
     
     Author: MISS DALLAL
     """)
