@@ -106,11 +106,9 @@ def main():
     # Markdowns
     st.subheader('About this app')
     st.markdown("""
-    The app uses an implementation of LeNet-5 Convolutional Neural Network. 
+    The app uses an implementation of Artificial Intelligence. 
     The model was trained and tested on about 40.000 real photos of 43 types of traffic signs.
-    
-  
-    
+      
     Author: MISS DALLAL
     """)
 
