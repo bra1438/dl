@@ -70,7 +70,7 @@ def sign_predict(image):
 def main():
     # Set page config and markdowns
     st.set_page_config(page_title='Traffic Signs Classifier', page_icon=':car:')
-    st.title('Traffic Signs Classifier')
+    st.title('Traffic Signs Detector Using AI')
     st.markdown("""
         This application classifies traffic signs. Upload any photo of a traffic sign 
         and receive its name out of 43 present classes. For getting the correct prediction, 
